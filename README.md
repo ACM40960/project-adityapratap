@@ -257,12 +257,12 @@ There is a large scope of advancement to this project, to name a few:
 
 ## Poster
 
-[Poster Link](https://github.com/ACM40960/project-shrutig99/blob/main/Shruti%20Ghorpade_Poster.pdf)
+[Poster Link](https://github.com/ACM40960/project-adityapratap/blob/main/Aditya%20Pratap%20Singh_Poster.pdf)
 
 
 ## Literature Review
 
-[Literature Review Link](https://github.com/ACM40960/project-shrutig99/blob/main/Literature_review.pdf)
+[Literature Review Link](https://github.com/ACM40960/project-adityapratap/blob/main/Literature_review.pdf)
 
 
 ## Acknowledgements
@@ -284,7 +284,7 @@ I am profoundly grateful to Dr. Sarp Akcay for his exceptional guidance and stea
 
 ## License
 
-This project is under the [MIT License](https://github.com/ACM40960/project-shrutig99/blob/main/LICENSE)
+This project is under the [MIT License](https://github.com/ACM40960/project-adityapratap/blob/main/LICENSE)
 
 ## Authors
 
